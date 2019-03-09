@@ -1,0 +1,1 @@
+.include	baska_dosya.txt	.giris	b	c	#girisler	.cikis	f	#cikis	.kapi	NAND	2	E	B	C	1	.kapi	XOR	2	F	D	E	1	.son	
